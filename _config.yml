@@ -21,7 +21,7 @@
 title: Gabriele Barni's personal page
 email: gabriele.barni@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I will add more stuff, this is just a test, we'll see how it goes...
+  I will add more stuff, this is just a test, we'll see how it goes ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  burnout87
