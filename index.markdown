@@ -7,3 +7,5 @@ layout: page
 
 ## Main page
 
+This is my personal page!
+
