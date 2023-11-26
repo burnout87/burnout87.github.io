@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A passionate Software Engineer, with a rich skillset and a solid computer science background, I am always thrilled by the opportunity to expand my competencies with new technologies and languages, in order to increase the quality of my products.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Assets: problem-solving and full-stack software development with experience in several high-level programming languages (e.g Java, C#) and scripting tools (e.g. python, tcl/tk). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Currently employed as a full-stack software engineer at EPFL at the faculty of Science, involved in various important projects, namely the scientific ESA mission INTEGRAL, and the SmartSky research project.
