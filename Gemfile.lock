@@ -77,7 +77,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (= 2.1.4)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   jekyll-seo-tag (~> 2.6)
