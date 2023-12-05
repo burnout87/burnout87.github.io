@@ -4,7 +4,7 @@ email: barn.gab@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   I will add more stuff, this is just a test, we'll see how it goes ...
 # baseurl: ""
-url: "http://localhost:4000"
+url: "https://github.com/burnout"
 github_username:  burnout87
 
 # Build settings
