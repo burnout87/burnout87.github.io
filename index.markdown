@@ -5,7 +5,5 @@
 layout: page
 ---
 
-## Main page
-
-This is my personal page!
-
+<img align="left" class="img-about" src="{{ site.baseurl }}/assets/images/avatar.png" width ="25%"> 
+<div>UniGe/EPFL full-stack software engineer. <p>This is my personal page!</p></div>
