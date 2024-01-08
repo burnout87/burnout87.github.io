@@ -4,8 +4,9 @@ email: barn.gab@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   I will add more stuff, this is just a test, we'll see how it goes ...
 baseurl: ""
-url: "https://github.com/burnout"
+url: "https://github.com/burnout87"
 github_username:  burnout87
+linkedin_username: barnigabriele
 
 # Build settings
 theme: jekyll-theme-minimal
@@ -16,3 +17,4 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+

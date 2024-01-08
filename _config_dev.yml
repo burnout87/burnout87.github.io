@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: ""
 url: "https://github.com/burnout"
 github_username:  burnout87
+linkedin_username: barnigabriele
 
 # Build settings
 theme: jekyll-theme-minimal

@@ -12,3 +12,17 @@
     background-color: #f0f0f0;
     padding: 20px;
 }
+
+.social-media-list {
+    li + li {
+      padding-top: 5px;
+    }
+  }
+
+  .social-media-list a:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
