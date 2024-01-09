@@ -10,19 +10,39 @@
 
 .footer {
     background-color: #f0f0f0;
-    padding: 20px;
 }
 
 .social-media-list {
-    li + li {
-      padding-top: 5px;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  
+    a {
+        color: $brand-color;
+        text-decoration: none;
+    
+        &:visited {
+            color: darken($brand-color, 15%);
+        }
+    
+        &:hover {
+            color: $text-color;
+            text-decoration: underline;
+        }
+    
+        .social-media-list &:hover {
+            text-decoration: none;
+    
+            .username {
+                text-decoration: underline;
+            }
+        }
     }
-  }
+}
 
-  .social-media-list a:hover {
-    text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
-  }
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: #{$grey-color};
+}
